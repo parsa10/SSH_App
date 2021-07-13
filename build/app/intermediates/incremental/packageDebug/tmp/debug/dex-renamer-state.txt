@@ -1,0 +1,4 @@
+#Tue Jul 13 17:13:03 IRDT 2021
+base.0=/Users/parsa/Desktop/Projects/ssh_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
