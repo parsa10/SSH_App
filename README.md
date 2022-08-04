@@ -1,6 +1,6 @@
 # ssh_app
 
-A new Flutter project.
+An application for handling and managing SSH connections written in dart and flutter framework.
 
 ## Getting Started
 
